@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "DBHelvethaicaX";
+  src: url("fonts/DBHelvethaicaX-Reg.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DBHelvethaicaX-Reg.woff") format("woff"),
+    url("fonts/DBHelvethaicaX-Reg.ttf") format("truetype"),
+    url("fonts/DBHelvethaicaX-Reg.svg#DBHelvethaicaX-Reg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DBHelvethaicaX-Bd";
+  src: url("fonts/DBHelvethaicaX-Bd.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DBHelvethaicaX-Bd.woff") format("woff"),
+    url("fonts/DBHelvethaicaX-Bd.ttf") format("truetype"),
+    url("fonts/DBHelvethaicaX-Bd.svg#DBHelvethaicaX-Bd") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}

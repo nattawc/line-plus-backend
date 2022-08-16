@@ -1,0 +1,72 @@
+html,
+body,
+#app {
+  /* font-family: "DBHelvethaicaX", sans-serif; */
+  font-family: "Sukhumvit Set", sans-serif;
+  line-height: 18px;
+
+}
+#app .text-normal .font-bold {
+  font-family: "DBHelvethaicaX-Bd";
+  font-weight: normal;
+}
+.form-control:focus {
+  outline: none !important;
+  border: 1px solid #999;
+  box-shadow: 0 0 2px #efefef;
+}
+.swal2-container {
+  font-family: "Sukhumvit Set", sans-serif !important;
+  font-size: 15px !important;
+}
+.swal2-popup {
+  background-color: #1c273c !important;
+  color: #fff !important;
+}
+.swal2-popup * {
+  color: #fff !important;
+}
+.swal2-container ul {
+  list-style: disc;
+  margin-left: 0px;
+  text-align: left !important;
+}
+.swal2-content {
+  font-size: 16px !important;
+}
+.swal2-title {
+  font-size: 24px !important;
+  font-weight: 900 !important;
+}
+.swal2-popup .swal2-styled.swal2-confirm {
+  background: #206600 !important;
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  border-radius: 25px !important;
+  padding: 10px 30px;
+}
+.swal2-icon-error .swal2-title {
+  color: #df0007 !important;
+}
+.swal2-icon.swal2-error {
+  border-color: #df0007 !important;
+  color: #df0007 !important;
+}
+.swal2-icon.swal2-error [class^="swal2-x-mark-line"] {
+  background: #df0007 !important;
+}
+.swal2-icon-error .swal2-styled.swal2-confirm,
+.swal2-icon-error .swal2-styled.swal2-cancel {
+  background: #df0007 !important;
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  border-radius: 0.25rem !important;
+  padding: 10px 30px;
+}
+.swal2-icon-success .swal2-styled.swal2-confirm {
+  background: #206600 !important;
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  border-radius: 0.25rem !important;
+  padding: 10px 30px;
+}
